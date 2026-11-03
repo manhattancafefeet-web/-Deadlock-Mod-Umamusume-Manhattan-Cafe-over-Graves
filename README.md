@@ -1,6 +1,6 @@
 # Manhattan Cafe over Graves (Deadlock)
 
-Replaces Graves with Manhattan Cafe from Umamusume: Pretty Derby, with Agnes Tachyon chibis as her minions.
+Replaces Graves with Manhattan Cafe from *Umamusume: Pretty Derby*, with Agnes Tachyon chibis as her minions.
 
 ## Install
 Download the `.vpk` from [Releases](../../releases) and install it with your Deadlock mod manager (or animations will be broken).
