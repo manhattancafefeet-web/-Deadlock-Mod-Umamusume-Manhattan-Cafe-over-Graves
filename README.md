@@ -31,3 +31,7 @@ Weights and bones are a mix of her OG ones and the ones from graves old model
 - Manhattan Cafe, Agnes Tachyon, voice lines and sound effects © Cygames (*Umamusume: Pretty Derby*)
 - Graves and Deadlock © Valve
 - Audio extracted with [vgmstream](https://github.com/vgmstream/vgmstream)
+
+<p align="center">
+  <img width="500" alt="Manhattan Cafe" src="https://github.com/user-attachments/assets/6c8cc7e2-1666-4bb2-b60d-6503279d8e61" />
+</p>
