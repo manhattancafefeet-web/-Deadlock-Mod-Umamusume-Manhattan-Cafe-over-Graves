@@ -4,6 +4,8 @@ Replaces Graves with Manhattan Cafe from *Umamusume: Pretty Derby*, with Agnes T
 
 ## Install
 Download the `.vpk` from [Releases](../../releases) and install it with your Deadlock mod manager (or animations will be broken).
+Or 
+https://gamebanana.com/mods/735980
 
 -Replaced UI
 Think I got all the Icons used replaced character art
