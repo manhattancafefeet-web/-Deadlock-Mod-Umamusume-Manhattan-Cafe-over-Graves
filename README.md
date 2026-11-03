@@ -41,6 +41,7 @@ Weights and bones are a mix of her OG ones and the ones from graves old model
     <img width="600" alt="Watch the showcase" src="https://img.youtube.com/vi/xDpvZ7VCJVM/hqdefault.jpg" />
   </a>
 </p>
+<p align="center"><a href="https://www.youtube.com/watch?v=xDpvZ7VCJVM">▶ Watch the showcase</a></p>
 
 <p align="center">
   <img width="260" alt="normal_transparent" src="https://github.com/user-attachments/assets/62a0f115-cf09-48c8-8dc3-42a8ffd04be8" />
